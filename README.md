@@ -10,8 +10,17 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on **Android Development.**<br>🌱 I’m currently learning **Blockchain.**<br>👯 I’m looking to collaborate on various **Android, ML related projects.**<br>🤝 I’m looking for help with **Blockchain Development.**<br>💬 Ask me about **Android Development, Kotlin, Firebase, Ktor, Firebase, Supabase, Jetpack Compose, MySQL.**</p>
+- 🔭 I’m currently working on **Android Development**
 
+- 🌱 I’m currently learning **Blockchain.**
+
+- 👯 I’m looking to collaborate on **various Android, ML related projects.**
+
+- 🤝 I’m looking for help with **Blockchain Development.**
+
+- 💬 Ask me about **Android Development, Kotlin, Firebase, Ktor, Firebase, Supabase, Jetpack Compose, MySQL.**
+
+- 📫 How to reach me **tushantakar10@gmail.com**
 ###
 
 <h2 align="left">🌐 Socials:</h2>
