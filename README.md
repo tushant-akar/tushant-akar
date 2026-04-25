@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tushant and I'm a Android Developer, from India.</p>
+<p align="left">My name is Tushant and I'm a Android Developer.</p>
 
 ###
 
