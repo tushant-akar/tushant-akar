@@ -23,8 +23,6 @@
 
 ###
 
-## 💻 Tech Stack
-
 ### Languages & Frameworks
 
 * Kotlin
