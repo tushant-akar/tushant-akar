@@ -23,20 +23,45 @@
 
 ###
 
-**Languages & Frameworks**
-Kotlin • Java • Python
+## 💻 Tech Stack
 
-**Android & Backend**
-Android • Jetpack Compose • Firebase • Ktor • Supabase • Spring Boot
+### Languages & Frameworks
 
-**Databases**
-MySQL • PostgreSQL • MongoDB • SQLite
+* Kotlin
+* Java
+* Python
 
-**Tools & Platforms**
-Git • GitHub • Android Studio • IntelliJ • PyCharm • Google Cloud • Azure • Heroku
+### Android & Backend
 
-**Libraries & ML**
-NumPy • Pandas • TensorFlow • PyTorch
+* Android
+* Jetpack Compose
+* Firebase
+* Supabase
+* Ktor
+* Spring Boot
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* SQLite
+
+### Tools & Platforms
+
+* Android Studio
+* PyCharm
+* Google Cloud
+* Azure
+* Heroku
+
+### Libraries & Machine Learning
+
+* NumPy
+* Pandas
+* TensorFlow
+* PyTorch
+
 
 ###
 
